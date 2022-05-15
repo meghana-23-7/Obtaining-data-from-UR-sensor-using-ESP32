@@ -30,13 +30,13 @@ https://github.com/meghana-23-7/Obtaining-data-from-UR-sensor-using-ESP32/blob/m
 
 
 ## Procedure
-Create a sketch for this project on arduino, write and verify the above code.
-Make the necessary connections between ESP32, OLED and Sensor.
-Connect this circuit to the computer through USB cable.
-Go to tools, select appropriate board names and com ports.
-Upload the code to ESP32.
-Open the serial monitor to see the output.
-Also observe the output on OLED if connected.
+1. Create a sketch for this project on arduino, write and verify the above code.
+2. Make the necessary connections between ESP32, OLED and Sensor.
+3. Connect this circuit to the computer through USB cable.
+4. Go to tools, select appropriate board names and com ports.
+5. Upload the code to ESP32.
+6. Open the serial monitor to see the output.
+7. Also observe the output on OLED if connected.
 
 ## Problems faced: none for this task. 
 
