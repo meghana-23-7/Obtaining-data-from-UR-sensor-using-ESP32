@@ -22,10 +22,12 @@ Now, distance=((velocity of sound in air)*duration)/2
 Here, duration is the interval between the sound wave emitted and detected.
 
 ## Code
-
+https://github.com/meghana-23-7/Obtaining-data-from-UR-sensor-using-ESP32/blob/main/sketch_task7Oled.ino
 The above code is for connections with OLED, if not required just remove the unnecessary part of the code, and it works fine. 
  
 With no OLED:
+https://github.com/meghana-23-7/Obtaining-data-from-UR-sensor-using-ESP32/blob/main/sketch_task7NoOled.ino
+
 
 ## Procedure
 Create a sketch for this project on arduino, write and verify the above code.
